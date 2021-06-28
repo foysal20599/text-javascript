@@ -1,0 +1,17 @@
+.my_class{
+    padding: 20px;
+    background-color: brown;
+    font-size: 30px;
+    color: cornsilk;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.my_class1{
+    padding: 20px;
+    background-color: rgb(128, 0, 111);
+    font-size: 30px;
+    color: cornsilk;
+    font-weight: bold;
+    font-style: italic;
+}
