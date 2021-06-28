@@ -1,0 +1,26 @@
+button{
+    padding: 15px 25px;
+}
+.button_class{
+    padding: 20px;
+    background-color: purple;
+    color: burlywood;
+    font-style: italic;
+   }
+   .button_class1{
+    padding: 20px;
+    background-color: rgb(235, 145, 10);
+    color: rgb(48, 46, 48);
+    font-style: italic;
+   }
+   .button_class2{
+    padding: 20px;
+    background-color: rgb(8, 41, 7);
+    color: rgb(150, 145, 149);
+    font-style: italic;
+   }
+   
+   .animate{
+    box-shadow: 1px 2px 3px #a926d2;
+    color: #101010;
+   }
